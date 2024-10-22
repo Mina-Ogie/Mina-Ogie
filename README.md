@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on building my social network and my skills in SQL,PowerBi and Excel
 - 🌱 I’m currently learning python and statistics and a bit of everything
 - 😄 Pronouns: she|her 
-- ⚡ Fun fact: I am the fun one and alsoo the motivator in any group
+- ⚡ Fun fact: I am the fun one and also the motivator in any group
 -->
